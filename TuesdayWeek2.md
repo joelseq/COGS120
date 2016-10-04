@@ -44,3 +44,17 @@
 
 1. A hand-drawn UI (usually) on multiple sheets of paper.
 2. You can photocopy your hand-drawn components, but don't create anything on the computer.
+
+#### Benefits
+- Easier than writing GUI code (maybe not?)
+- Starts conversation about user interactions. Can test on people and they can give you feedback right away. Easier to pivot.
+- Change elements on the fly when given feedback.
+
+## Wizard of Oz
+
+ 1. A human operator pretending to be an interactive computer app.
+
+#### Tips
+ - Have one teammate be wizard, and another be the study facilitator.
+ - write an "algorithm" / prompt for wizard so that they follow pre-set rules. Make it clear for the wizard what the interaction should be.
+ - Practice on friends first.
